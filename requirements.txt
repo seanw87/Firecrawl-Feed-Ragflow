@@ -1,0 +1,6 @@
+firecrawl-py==1.13.5
+ragflow-sdk==0.17.2
+nest-asyncio~=1.6.0
+websockets==13.1
+uv==0.6.6
+black==25.1.0
